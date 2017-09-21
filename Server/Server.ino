@@ -4,8 +4,8 @@
 #define SS_PIN 5
 #define INTERRUPT_PIN 15
 
-const char* ssid = "Nakamura-lab24";
-const char* password = "Nonlinear!";
+const char* ssid = “Your SSID”;
+const char* password = “Your Password“;
 int receivedData;
 
 WiFiServer server(50001);
